@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "Bitbucket"
+  },
+  "colors": {
+    "primary": "blue"
+  },
+  "images": {
+    "logo": "imgs/bitbucket/logo.png",
+    "favicon16":  "imgs/bitbucket/favicon-16x16.png",
+    "favicon32":  "imgs/bitbucket/favicon-32x32.png"
+  }
+}

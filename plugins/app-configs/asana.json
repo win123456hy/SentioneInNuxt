@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "Asana"
+  },
+  "colors": {
+    "primary": "pink"
+  },
+  "images": {
+    "logo": "imgs/asana/logo.png",
+    "favicon16":  "imgs/asana/favicon-16x16.png",
+    "favicon32":  "imgs/asana/favicon-32x32.png"
+  }
+}

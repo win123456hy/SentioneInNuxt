@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "Github"
+  },
+  "colors": {
+    "primary": "black"
+  },
+  "images": {
+    "logo": "imgs/github/logo.png",
+    "favicon16":  "imgs/github/favicon-16x16.png",
+    "favicon32":  "imgs/github/favicon-32x32.png"
+  }
+}
